@@ -1,6 +1,6 @@
 {
   "name": "buidl-storage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Abstract storage solution for browser/node based around indexedDB",
   "author": "TekHedz, LLC",
   "homepage": "https://github.com/buidlhub/buidl-storage/#readme",
